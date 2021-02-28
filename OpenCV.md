@@ -18,7 +18,7 @@ Download the Installer
 ---------------------
 Once you have set up Visual Studio on your system, download the installer according to the Visual Studio version you have installed.
 
-
+<table style="width:100%;max-width:700px" width="700" cellpadding="10" border="1">
   <tbody><tr>
    <th scope="col" bgcolor="#303236" style="color:#fff;text-align:center">OpenCV Version</th>
     <th scope="col" bgcolor="#303236" style="color:#fff;text-align:center">Visual Studio 16</th>
