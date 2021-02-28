@@ -1,5 +1,5 @@
 # Building-OpenCV-with-Visual-Studio-from-source-on-Windows
-In this tutorial I willshow you  we can install OpenCV on Windows for C++ and Python
+In this tutorial I will show you  we can install OpenCV on Windows for C++ and Python
 # Install prerequisites
 Visual Studio
 -------------
@@ -48,3 +48,25 @@ Once you have set up Visual Studio on your system, download the installer accord
     <td style="text-align:center"><a href="https://www.dropbox.com/s/cqidx60q9e76qqf/OpenCV-4.1.0-vc15.exe?dl=1" rel="noreferrer noopener ugc" title="Download OpenCV Installer 4.1.0 vc1" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.dropbox.com/s/cqidx60q9e76qqf/OpenCV-4.1.0-vc15.exe?dl%3D1&amp;source=gmail&amp;ust=1614596789783000&amp;usg=AFQjCNGW_fIf8A-DQS8BxG5fThveJYta1g">OpenCV-4.1.0-vc15.exe</a></td>
     <td style="text-align:center"><a href="https://www.dropbox.com/s/9zu6u6mu31bea9h/OpenCV-4.1.0-vc14.exe?dl=1" rel="noreferrer noopener ugc" title="Download OpenCV Installer 4.1.0 vc1" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.dropbox.com/s/9zu6u6mu31bea9h/OpenCV-4.1.0-vc14.exe?dl%3D1&amp;source=gmail&amp;ust=1614596789783000&amp;usg=AFQjCNHzF3yCQQ94Uccsbgx4_D0OV20RcA">OpenCV-4.1.0-vc14.exe</a></td>
   </tr>
+
+
+Install OpenCV 
+---------------
+Once you download the installer, double click it to run the installer. Before the installer starts, it’ll ask you permission to run the executable. Click on More info and then on Run anyway.
+![1](https://user-images.githubusercontent.com/48203467/109417045-32554f00-79c2-11eb-90f9-3c7ce72b25ac.jpg)
+Click on "More Info" to get the option to run the Installer
+![2](https://user-images.githubusercontent.com/48203467/109417074-5ca70c80-79c2-11eb-9fdf-4f4557447561.jpg)
+Click on "Run anyway" to run the Installer
+![3](https://user-images.githubusercontent.com/48203467/109417112-83fdd980-79c2-11eb-879d-11f545695dda.jpg)
+Read the license and If you accept it, click on I accept the agreement and click on Next.
+![4](https://user-images.githubusercontent.com/48203467/109417155-b6a7d200-79c2-11eb-990d-45957ad8a12c.jpg)
+Next, it’ll ask you to choose the installation folder. You can install OpenCV anywhere on the system. The default location is C:.
+![5](https://user-images.githubusercontent.com/48203467/109417193-d7702780-79c2-11eb-8694-6dd3ab1d9b87.jpg)
+Finally, the installer will ask you for confirmation to install OpenCV on the system. Click on Install to continue.
+![6](https://user-images.githubusercontent.com/48203467/109417214-f1aa0580-79c2-11eb-8886-4c69a56d39b3.jpg)
+Confirm Install
+![7](https://user-images.githubusercontent.com/48203467/109417231-071f2f80-79c3-11eb-939b-6033cb73c70b.jpg)
+After OpenCV is installed, you can exit the installer.
+![8](https://user-images.githubusercontent.com/48203467/109417251-17cfa580-79c3-11eb-9433-a7b00982c6ed.jpg)
+
+
