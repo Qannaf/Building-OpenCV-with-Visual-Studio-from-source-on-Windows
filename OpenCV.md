@@ -49,7 +49,7 @@ Once you have set up Visual Studio on your system, download the installer accord
     <td style="text-align:center"><a href="https://www.dropbox.com/s/cqidx60q9e76qqf/OpenCV-4.1.0-vc15.exe?dl=1" rel="noreferrer noopener ugc" title="Download OpenCV Installer 4.1.0 vc1" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.dropbox.com/s/cqidx60q9e76qqf/OpenCV-4.1.0-vc15.exe?dl%3D1&amp;source=gmail&amp;ust=1614596789783000&amp;usg=AFQjCNGW_fIf8A-DQS8BxG5fThveJYta1g">OpenCV-4.1.0-vc15.exe</a></td>
     <td style="text-align:center"><a href="https://www.dropbox.com/s/9zu6u6mu31bea9h/OpenCV-4.1.0-vc14.exe?dl=1" rel="noreferrer noopener ugc" title="Download OpenCV Installer 4.1.0 vc1" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.dropbox.com/s/9zu6u6mu31bea9h/OpenCV-4.1.0-vc14.exe?dl%3D1&amp;source=gmail&amp;ust=1614596789783000&amp;usg=AFQjCNHzF3yCQQ94Uccsbgx4_D0OV20RcA">OpenCV-4.1.0-vc14.exe</a></td>
   </tr>
-
+</tbody></table>
 
 Install OpenCV 
 ---------------
