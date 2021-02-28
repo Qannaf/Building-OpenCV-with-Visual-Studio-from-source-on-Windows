@@ -17,7 +17,6 @@ Click or tap to start the installer, and then choose "Modify"
 Download the Installer
 ---------------------
 Once you have set up Visual Studio on your system, download the installer according to the Visual Studio version you have installed.
-<br><br>
 <table style="width:100%;max-width:700px" width="700" cellpadding="10" border="1">
   <tbody><tr>
    <th scope="col" bgcolor="#303236" style="color:#fff;text-align:center">OpenCV Version</th>
@@ -28,17 +27,13 @@ Once you have set up Visual Studio on your system, download the installer accord
   <tr>
     <td style="text-align:center"><strong>OpenCV-4.5.1</strong></td>
     <td style="text-align:center"><a href="https://www.dropbox.com/s/4qc90n6u2nsdv88/OpenCV-4.5.1-vc16.exe?dl=1" rel="noreferrer noopener ugc" title="Download OpenCV Installer 4.5.0 vc16" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.dropbox.com/s/4qc90n6u2nsdv88/OpenCV-4.5.1-vc16.exe?dl%3D1&amp;source=gmail&amp;ust=1614596789782000&amp;usg=AFQjCNE-LSPJTksVy9Zyo4Cz-8iP4SqPQw">OpenCV-4.5.1-vc16.exe</a></td>
-    
     <td style="text-align:center"><a href="https://www.dropbox.com/s/etmoea258dzjs4k/OpenCV-4.5.1-vc15.exe?dl=1" rel="noreferrer noopener ugc" title="Download OpenCV Installer 4.5.0 vc15" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.dropbox.com/s/etmoea258dzjs4k/OpenCV-4.5.1-vc15.exe?dl%3D1&amp;source=gmail&amp;ust=1614596789782000&amp;usg=AFQjCNFGEkRQBkfPC-lF2Nk3G1JHU-O2Ig">OpenCV-4.5.1-vc15.exe</a></td>
-      
     <td style="text-align:center"><a href="https://www.dropbox.com/s/342430jrw25gaq2/OpenCV-4.5.1-vc14.exe?dl=1" rel="noreferrer noopener ugc" title="Download OpenCV Installer 4.5.0 vc14" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.dropbox.com/s/342430jrw25gaq2/OpenCV-4.5.1-vc14.exe?dl%3D1&amp;source=gmail&amp;ust=1614596789782000&amp;usg=AFQjCNE7QztJyrECVYTacohXAty4kl7WYQ">OpenCV-4.5.1-vc14.exe</a></td>
   </tr>
   <tr>
     <td style="text-align:center"><strong>OpenCV-4.5.0</strong></td>
     <td style="text-align:center"><a href="https://www.dropbox.com/s/vm5r6y74eee0vvb/OpenCV-4.5.0-vc16.exe?dl=1" rel="noreferrer noopener ugc" title="Download OpenCV Installer 4.5.0 vc16" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.dropbox.com/s/vm5r6y74eee0vvb/OpenCV-4.5.0-vc16.exe?dl%3D1&amp;source=gmail&amp;ust=1614596789782000&amp;usg=AFQjCNG2cm9M2wp6SXfza4k8NXweJjMcPg">OpenCV-4.5.0-vc16.exe</a></td>
-    
-    <td style="text-align:center"><a href="https://www.dropbox.com/s/wzdzq3fc4zkc1y4/OpenCV-4.5.0-vc15.exe?dl=1" rel="noreferrer noopener ugc" title="Download OpenCV Installer 4.5.0 vc15" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.dropbox.com/s/wzdzq3fc4zkc1y4/OpenCV-4.5.0-vc15.exe?dl%3D1&amp;source=gmail&amp;ust=1614596789782000&amp;usg=AFQjCNH1_w1TrkgTlTs45EJVAPL2Um3O-g">OpenCV-4.5.0-vc15.exe</a></td>
-      
+    <td style="text-align:center"><a href="https://www.dropbox.com/s/wzdzq3fc4zkc1y4/OpenCV-4.5.0-vc15.exe?dl=1" rel="noreferrer noopener ugc" title="Download OpenCV Installer 4.5.0 vc15" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.dropbox.com/s/wzdzq3fc4zkc1y4/OpenCV-4.5.0-vc15.exe?dl%3D1&amp;source=gmail&amp;ust=1614596789782000&amp;usg=AFQjCNH1_w1TrkgTlTs45EJVAPL2Um3O-g">OpenCV-4.5.0-vc15.exe</a></td> 
     <td style="text-align:center"><a href="https://www.dropbox.com/s/2k60nvg0q07z035/OpenCV-4.5.0-vc14.exe?dl=1" rel="noreferrer noopener ugc" title="Download OpenCV Installer 4.5.0 vc14" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.dropbox.com/s/2k60nvg0q07z035/OpenCV-4.5.0-vc14.exe?dl%3D1&amp;source=gmail&amp;ust=1614596789782000&amp;usg=AFQjCNHczjBkVmPWWZmIDngBXtILs7vsWA">OpenCV-4.5.0-vc14.exe</a></td>
   </tr>
   <tr>
@@ -53,8 +48,3 @@ Once you have set up Visual Studio on your system, download the installer accord
     <td style="text-align:center"><a href="https://www.dropbox.com/s/cqidx60q9e76qqf/OpenCV-4.1.0-vc15.exe?dl=1" rel="noreferrer noopener ugc" title="Download OpenCV Installer 4.1.0 vc1" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.dropbox.com/s/cqidx60q9e76qqf/OpenCV-4.1.0-vc15.exe?dl%3D1&amp;source=gmail&amp;ust=1614596789783000&amp;usg=AFQjCNGW_fIf8A-DQS8BxG5fThveJYta1g">OpenCV-4.1.0-vc15.exe</a></td>
     <td style="text-align:center"><a href="https://www.dropbox.com/s/9zu6u6mu31bea9h/OpenCV-4.1.0-vc14.exe?dl=1" rel="noreferrer noopener ugc" title="Download OpenCV Installer 4.1.0 vc1" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.dropbox.com/s/9zu6u6mu31bea9h/OpenCV-4.1.0-vc14.exe?dl%3D1&amp;source=gmail&amp;ust=1614596789783000&amp;usg=AFQjCNHzF3yCQQ94Uccsbgx4_D0OV20RcA">OpenCV-4.1.0-vc14.exe</a></td>
   </tr>
-    
-  
-</tbody></table>
-
-
