@@ -51,6 +51,11 @@ Once you have set up Visual Studio on your system, download the installer accord
   </tr>
 </tbody></table>
 
+OpenCV With Cuda
+---------------
+<td style="text-align:center"><strong>OpenCV-3.4-CUDA</strong></td>
+    <td style="text-align:center"><a href="https://drive.google.com/file/d/1TpA-89yPlEgkKhHKyimCOQdyaxBoSUeD/view?usp=sharing?dl=1" rel="noreferrer noopener ugc" title="Download OpenCV Installer With Cuda" target="_blank" data-saferedirecturl="https://drive.google.com/file/d/1TpA-89yPlEgkKhHKyimCOQdyaxBoSUeD/view?usp=sharing">OpenCV-3.4-CUDA.exe</a></td>
+
 Install OpenCV 
 ---------------
 Once you download the installer, double click it to run the installer. Before the installer starts, it’ll ask you permission to run the executable. Click on More info and then on Run anyway.
