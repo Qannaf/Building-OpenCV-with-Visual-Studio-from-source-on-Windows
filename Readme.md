@@ -1,7 +1,9 @@
 <p align="center">
   <img width="200" height="208" src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png">
 </p>
+
 # Building-OpenCV-with-Visual-Studio-from-source-on-Windows
+---------------------------------
 In this tutorial I will show you  we can install OpenCV on Windows for C++ and Python
 # Install prerequisites
 Visual Studio
