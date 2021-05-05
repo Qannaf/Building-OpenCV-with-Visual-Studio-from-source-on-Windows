@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="200" height="208" src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png">
-</p>
+<img width="200" height="208" src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png"></p>
 
 # Building-OpenCV-with-Visual-Studio-from-source-on-Windows
 ---------------------------------
